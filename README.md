@@ -1,2 +1,3 @@
 # iit-itmd361
-ITMD-361 Fundamental of Web Development
+ITMD-361 Fundamentals of Web Development course
+
